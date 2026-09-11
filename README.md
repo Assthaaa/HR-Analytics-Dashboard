@@ -12,6 +12,7 @@ The dashboard was built using the following tools and technologies:
 * 🔄 **Power Query** - Data transformation and cleaning layer for reshaping and preparing the data.
 * ⚙️ **DAX (Data Analysis Expressions)** - Used for calculated measures, dynamic visuals, and conditional logic.
 * 🔗 **Data Modeling** - Relationships established among tables to enable cross-filtering and seamless navigation.
+* 📁 **File Format** – .pbix for development and .png for dashboard previews.
 
 ##   4. Key Metrics & KPIs Tracked 
 * **Total Employees:** 1403
@@ -35,4 +36,5 @@ The dashboard was built using the following tools and technologies:
 * **Executive Decision Support:** Replaces static reporting with interactive slicers (such as age group filters ranging from 18 to 55) for rapid, data-driven planning.
 
 ##   7. Screenshots / Demos
-   https://github.com/Assthaaa/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20HR%20Analytics%20Dashboard.png
+Show what the dashboard looks like-
+   Example-![Dashboard Preview](https://github.com/Assthaaa/HR-Analytics-Dashboard/blob/main/Snapshot%20of%20HR%20Analytics%20Dashboard.png)
